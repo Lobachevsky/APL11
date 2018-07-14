@@ -1,0 +1,5 @@
+: install APL
+as ax.s;mv a.out ax.o
+yacc apl.y
+cc -n -f a?.c y.tab.c ax.o -ly
+mv a.out apl
