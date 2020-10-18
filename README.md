@@ -9,4 +9,4 @@ I worked on a version of this in the mid to late 1970s and was able to get it to
 
 Read `crm.pdf` and `arrow.pdf` for more background and information.
 
-See files `apl bang` and `apl slash bang b`y William Chang for APL transliteration scheme proposals
+See files `apl bang` and `apl slash bang` by William Chang for APL transliteration scheme proposals
