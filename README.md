@@ -10,4 +10,4 @@ I worked on a version of this in the mid to late 1970s and was able to get it to
 Read [crm.pdf](https://github.com/Lobachevsky/APL11/blob/master/crm.pdf) and [arrow.pdf](https://github.com/Lobachevsky/APL11/blob/master/arrow.pdf) for 
 more background and information.
 
-See files `apl bang` and `apl slash bang` by William Chang for APL transliteration scheme proposals
+See files [apl bang](https://github.com/Lobachevsky/APL11/blob/master/apl%20bang) and [apl slash bang](https://github.com/Lobachevsky/APL11/blob/master/apl%20slash%20bang) by William Chang for APL transliteration scheme proposals
